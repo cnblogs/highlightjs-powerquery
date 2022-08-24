@@ -1,0 +1,22 @@
+{
+  "name": "highlightjs-powerquery",
+  "version": "0.0.1",
+  "description": "PowerQuery syntax highlighting for highlight.js",
+  "main": "src/powerquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "highlightjs",
+    "highlight.js",
+    "powerquery",
+    "syntax-highlighting",
+    "grammars",
+    "highlighting"
+  ],
+  "author": "laggage",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
